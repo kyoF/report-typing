@@ -1,3 +1,3 @@
-function doPost(e) {
-  return ContentService.createTextOutput('test reportTyping')
+function doPost(e){ 
+  return ContentService.createTextOutput('Hello World from GAS!!')
 }
